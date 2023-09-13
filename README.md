@@ -1,1 +1,1 @@
-# Quiz_App
+Quiz Application using Kotlin in Android Studio.
